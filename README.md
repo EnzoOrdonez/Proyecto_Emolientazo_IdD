@@ -1,4 +1,4 @@
-# Sistema Integral de Gestión y Distribución de Productos - Emolientazo 2024
+# Sistema Integral de Gestión y Distribución de Productos
 
 _Aplicativo web para la gestión de ventas de emolientes en la municipalidad de San Miguel, que permite a los clientes realizar pedidos, consultar disponibilidad de productos y gestionar inventarios de manera eficiente._
 
